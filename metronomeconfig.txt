@@ -1,13 +1,13 @@
 #Enter Spotify details
-client_id =
-client_secret =
-spot_username =
+client_id =b0d71c2a977d4181b0fa602d5cfb1c37
+client_secret =d40ed3be6ebe4f8e8378df78e17b8246
+spot_username =lmc_1203
 
 #Enter LIFX token
-lifx_token =
+lifx_token =c1ac4bf0d8e3b76b2b5d2583f5b1630b7503fbdfd80e9bdd32b46294be30681a
 
 #Settings
-#Brightness: 1.0 is 100% brightness, 0.5 is 50% brightness, etc.
+#Brightness: 1.0 is 50% brightness, 0.5 is 25% brightness, etc.
 lights_brightness = 1.0
 
 #LPB (lights per beat): the number of light flashes that occur per beat;
